@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 )
-
+//коммит тест
 func main() {
 
 	scanner := bufio.NewScanner(os.Stdin)
